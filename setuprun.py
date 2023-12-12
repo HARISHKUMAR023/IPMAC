@@ -10,7 +10,7 @@ def get_ip_address():
 
 def main():
     logo = lo.logo.split('\n')
-    tool_name = Figlet(font='slant').renderText('IP FINDER TOOL').split('\n')
+    tool_name = Figlet(font='slant').renderText('DiscoverIP').split('\n')
 
     tool_name = [''] * 5 + tool_name
 
