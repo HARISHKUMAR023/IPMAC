@@ -22,10 +22,5 @@ Display MAC address
 Exit
 Enter the number of the option you want to select.
 
-<<<<<<< HEAD
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
-=======
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> f7f8b87dc4dd1ee316bd918dd0241b1b63cf9fc8
