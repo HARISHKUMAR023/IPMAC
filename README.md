@@ -1,4 +1,4 @@
-# IP Finder Tool
+#  DiscoverIP
 
 This is a simple command-line tool for displaying the IP and MAC addresses of the computer.
 
