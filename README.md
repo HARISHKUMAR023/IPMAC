@@ -11,7 +11,7 @@ This is a simple command-line tool for displaying the IP and MAC addresses of th
 ```bash
 pip install -r requirements.txt
 
-Usage
+# Usage
 Run the tool using Python:
      python setuprun.py
 You will be presented with a menu of options:
@@ -21,5 +21,5 @@ Display MAC address
 Exit
 Enter the number of the option you want to select.
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
